@@ -211,6 +211,5 @@
 	</form>
 </div>
 <?php  
-//Ejemplo de tabs adaptado de: https://codepen.io/wizly/pen/BlKxo 
 ?>
 
