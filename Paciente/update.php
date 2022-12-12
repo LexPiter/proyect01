@@ -118,8 +118,7 @@
 
 
 <script>
-//ejemplo datepiker en bootstrap tomado de:
-//http://formvalidation.io/examples/bootstrap-datepicker/
+/
 
 $(document).ready(function() {
     $('#datePicker')
