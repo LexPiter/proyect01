@@ -222,14 +222,7 @@ $(document).ready(function() {
         })
 });
 
-/*Basic example
-Embedding a date picker
-Setting date in a range
-Auto closing the date picker
-Tweets by @formvalidation
-Download Report bug
 
-© 2013 - 2016 Nguyen Huu Phuoc. All rights reserved.*/
 </script>
 
 
